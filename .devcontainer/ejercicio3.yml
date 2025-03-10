@@ -1,0 +1,10 @@
+name: 
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12.7
+  - jupyter
+  - pandas
+  - numpy
+  - seaborn
+  - matplotlib
