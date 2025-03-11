@@ -18,10 +18,10 @@ exec bash
 
 conda activate Grupo7
 
-# paso 5: Instalar dependencias requirements.txt
+# paso 5: Instalar dependencias requirements.txt (Nota: Enter al momento de instalar)
 
 conda install --file requirements.txt
 
-# paso 6: ejecutar Ejercicio3.ipynb
+# paso 6: ejecutar Ejercicio3.ipynb (Extra- ejecutar Ejercicio3.ipynb desde terminal)
 
 jupyter nbconvert --execute --to notebook --inplace Ejercicio3.ipynb 
