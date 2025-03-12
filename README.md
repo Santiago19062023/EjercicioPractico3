@@ -1,6 +1,6 @@
 # EjercicioPractico3
 
-## En la Terminal correr cada paso con su indicacion 
+## En la Terminal ejecutar cada paso con su indicacion.
 
 ### Paso 1: Crear entorno de conda con la versión necesaria (Nota: Enter al momento de crear el entorno de conda)
 
